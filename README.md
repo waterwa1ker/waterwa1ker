@@ -1,4 +1,10 @@
-### Hi there 👋
+### Всем привет, меня зовут Адель. 18 лет, проживаю в Казани
+### На данный момент не работаю, в активном поиске трудойстройства
+### Сейчас изучаю Docker, делаю пет-проекты
+### Мои социальные сети:
+### telegram: t.me/LifeLikeBoxOfChocolates
+### VK: vk.com/dontbemycocoon
+
 
 <!--
 **waterwa1ker/waterwa1ker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
