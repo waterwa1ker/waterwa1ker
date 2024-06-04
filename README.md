@@ -1,21 +1,38 @@
-### Всем привет, меня зовут Адель. 19 лет, проживаю в Казани!
-### Мои социальные сети:
-### telegram: t.me/LifeLikeBoxOfChocolates
-### VK: vk.com/dontbemycocoon
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterwa1ker&layout=compact)](https://github.com/waterwa1ker/github-readme-stats)
+# Всем привет ✋
 
+## Обо мне
 
-<!--
-**waterwa1ker/waterwa1ker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🏢 Java разработчик с опытом работы около полугода
+#### 🎓 Студент 2 курса КНИТУ-КАИ на направлении Прикладная математика и информатика
+#### 🏫 Студент основного обучения в школе 21 от Сбера
 
-Here are some ideas to get you started:
+## Языки и технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width = 50 height = 50></img>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width = 50 height = 50></img>
+</div>
+
+## Контакты
+
+<a href = "t.me/LifeLikeBoxOfChocolates">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Teleram badge"/>
+</a>
+
+---- 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterwa1ker&layout=compact)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waterwa1ker)](https://git.io/streak-stats)
