@@ -21,8 +21,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width = 50 height = 50></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" width = 50 height = 50></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width = 50 height = 50></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width = 50 height = 50></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" width = 50 height = 50></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width = 50 height = 50></img>
+  <img src="https://jmeter.apache.org/images/jmeter_square.png" width = 50 height = 50></img>
 </div>
 
 ## Контакты
