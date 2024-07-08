@@ -34,5 +34,6 @@
 
 ---- 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterwa1ker&layout=compact)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waterwa1ker)](https://git.io/streak-stats)
