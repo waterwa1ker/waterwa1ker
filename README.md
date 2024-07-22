@@ -28,7 +28,7 @@
 
 ## Контакты
 
-<a href = "t.me/LifeLikeBoxOfChocolates">
+<a href = "https://t.me/LifeLikeBoxOfChocolates">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Teleram badge"/>
 </a>
 
